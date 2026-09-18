@@ -1,0 +1,14 @@
+# НУУЦ ТҮЛХҮҮР — ХЭЗЭЭ Ч GITHUB РУУ ОРУУЛЖ БОЛОХГҮЙ
+.env
+.env.*
+*.key
+
+# Туршилтын файлууд
+test.js
+probe.js
+probe2.js
+limits.js
+
+node_modules/
+npm-debug.log*
+.DS_Store
